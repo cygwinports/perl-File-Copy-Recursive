@@ -1,0 +1,10 @@
+CPAN_AUTHOR=dmuey
+inherit perl
+
+NAME="perl-File-Copy-Recursive"
+VERSION=0.38
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl module for recursively copying files and directories"
+DESCRIPTION="This module copies and moves directories recursively to an
+optional depth and attempts to preserve each file or directory's mode."
